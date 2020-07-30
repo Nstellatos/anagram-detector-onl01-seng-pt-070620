@@ -8,3 +8,4 @@ class Anagram
       word.split("").sort
 end
 end
+end
