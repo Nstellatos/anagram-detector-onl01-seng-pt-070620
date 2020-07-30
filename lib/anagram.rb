@@ -1,4 +1,5 @@
 class Anagram
-  def initialize(anagram)
+  def initialize
     @anagram = anagram 
+end
 end
