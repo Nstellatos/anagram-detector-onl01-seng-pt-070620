@@ -4,6 +4,6 @@ class Anagram
     @word = word 
   end
   def match(match_words)
-    match_words do |word|
+    match_words.select do |word|
 end
 end
